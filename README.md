@@ -8,9 +8,10 @@
 
 2. Crear  particiones necesarias para instalar el SO, ver video
 Busca en internet que es RAID
+**RAID:** 
 
-
-¿Qué particiones crea WIndows y para que sirven?
+¿Qué particiones crea Windows y para que sirven?
+tipos de particiones
 
 
 3. Video proceso de instalación, ahora tenemos el entorno preparado y vamos a comenzar la instalación.
