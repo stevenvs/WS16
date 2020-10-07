@@ -1,7 +1,7 @@
 # WS16
 . Seguir los pasos de este video
 ¿En qué caso se puede hacer una actualización?
-
+Cuando tengamos el windows server 2012 o windows server R2 podemos darle a la opcion de actualizar 
 
 ¿Cuándo usamos la instalación personalizada?
 
