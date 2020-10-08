@@ -13,13 +13,13 @@ Este metodo se utili Formatea nuestro disco y se borraran todos los datos para r
 
 ## 2. Crear  particiones necesarias para instalar el SO, ver video
 
+**Busca en internet que es RAID**
 
-Busca en internet que es RAID
 **RAID:** Es un método de almacenamiento que permite unir varios discos duros físicos en una sola unidad lógica, cuando se graban datos en el RAID se distribuye entre los discos, esta tecnologia consigue una mayor protección de datos, protege la información y tambien obtiene un mejor rendimiento.
 
-¿Qué particiones crea Windows y para que sirven?
+**¿Qué particiones crea Windows y para que sirven?**
 Cuando instalamos Windows 
 
 
-3. Video proceso de instalación, ahora tenemos el entorno preparado y vamos a comenzar la instalación.
+## 3. Video proceso de instalación, ahora tenemos el entorno preparado y vamos a comenzar la instalación.
 Pondremos como contraseña.  $SOR.iesn1
